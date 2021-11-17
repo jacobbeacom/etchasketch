@@ -1,1 +1,2 @@
 # etchasketch
+The purpose of this project is to demonstrate and practice using Javascript to dynamically create and change HTML elements by adding a variety of functions to the page for the user to interact with.
