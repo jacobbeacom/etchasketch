@@ -74,3 +74,7 @@ p {
 .hover {
     background-color: black;
 }
+
+.container div {
+    outline: black;
+}
